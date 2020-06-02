@@ -1,0 +1,1 @@
+python run_training.py --num-gpus=2 --data-dir=./datasets --config=config-f --dataset=my-custom-dataset --mirror-augment=true --metrics=None
